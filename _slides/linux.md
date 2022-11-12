@@ -1,6 +1,6 @@
 ---
 layout: slides
-title: Linux
+title: Linux Versions
 image_url: /images/mint.png
 caption: εκδόσεις των linux
 slides:
@@ -9,5 +9,6 @@ slides:
   - parrotOS
   - blackarch_linux
   - kaliLinux
+  - debian-linux
 ---
  
