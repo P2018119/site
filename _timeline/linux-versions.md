@@ -1,6 +1,6 @@
 ---
 layout: timeline
-title: Linux
+title: Linux Versions
 image_url: /images/mint.png
 caption: εκδόσεις των linux
 events:
@@ -9,5 +9,6 @@ events:
   - parrotOS
   - blackarch_linux
   - kaliLinux
+  - debian-linux
 ---
   
